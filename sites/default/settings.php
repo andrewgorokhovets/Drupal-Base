@@ -4,10 +4,10 @@ $databases = array (
   array (
     'default' => 
     array (
-      'database' => 'webwork_verona',
-      'username' => 'webwork_verona',
-      'password' => 'kg7reqnq',
-      'host' => 'webwork.mysql.ukraine.com.ua',
+      'database' => '',
+      'username' => '',
+      'password' => '',
+      'host' => '',
       'port' => '',
       'driver' => 'mysql',
       'prefix' => '',

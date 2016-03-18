@@ -1,6 +1,6 @@
 <?php
 $SES = array (
-  '14ca64e720af5d5d0e70a026074650be' => 
+  '416dddac22581cacd631e7abead84f3c' => 
   array (
     'cfg' => 
     array (
@@ -14,8 +14,8 @@ $SES = array (
       'globstat' => 0,
       'my_host' => 'webwork.mysql.ukraine.com.ua',
       'my_port' => 3306,
-      'my_user' => 'webwork_verona',
-      'my_pass' => 'kg7reqnq',
+      'my_user' => 'webwork_cls',
+      'my_pass' => 'qsqah5yv',
       'my_comp' => 0,
       'my_db' => '',
       'auth' => 'mysql cfg',
@@ -24,7 +24,7 @@ $SES = array (
       'confirm' => '6',
       'exitURL' => './',
     ),
-    'time' => 1457944134,
+    'time' => 1458309762,
     'lng' => 'ru',
   ),
 );

@@ -4,3 +4,10 @@ sites/*/settings*.php
 # Ignore paths that contain user-generated content.
 sites/*/files
 sites/*/private
+sites/*/tmp
+
+# But not .htaccess
+!.gitignore
+!sites/*/files/.htaccess
+!sites/*/private/.htaccess
+!sites/*/tmp/.htaccess
