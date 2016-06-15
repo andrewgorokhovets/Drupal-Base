@@ -1,6 +1,6 @@
 <?php
 $SES = array (
-  'b59377e6bf22d3d3ef0577ed50f570b1' => 
+  'a6105cb02fbfdded146a50f60de17afa' => 
   array (
     'cfg' => 
     array (
@@ -12,10 +12,10 @@ $SES = array (
       'backup_url' => 'backup/',
       'only_create' => 'MRG_MyISAM MERGE HEAP MEMORY',
       'globstat' => 0,
-      'my_host' => 'webwork.mysql.ukraine.com.ua',
+      'my_host' => 'localhost',
       'my_port' => 3306,
-      'my_user' => 'webwork_jwrus',
-      'my_pass' => 'yz5wyvjg',
+      'my_user' => 'root',
+      'my_pass' => '',
       'my_comp' => 0,
       'my_db' => '',
       'auth' => 'mysql cfg',
@@ -24,7 +24,7 @@ $SES = array (
       'confirm' => '6',
       'exitURL' => './',
     ),
-    'time' => 1462089171,
+    'time' => 1465975600,
     'lng' => 'ru',
   ),
 );
